@@ -19,6 +19,7 @@ class Cheltuieli
         void setName(char *n);    
         //void setAge(int a);     
         Cheltuieli& operator=(const Cheltuieli &s);     
-        bool operator==(const Cheltuieli &s); }; 
+        bool operator==(const Cheltuieli &s);
+ }; 
  
 #endif
